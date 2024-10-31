@@ -1,4 +1,5 @@
 # Unsupervised Learning: Clustering Project
+Raj
 
 This project demonstrates the application of **unsupervised learning** techniques, focusing on **clustering algorithms**. Through this project, we explore how clustering can reveal hidden patterns and structures in data without requiring labeled outputs.
 
